@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Computer Solutions</string>
+    <string name="loginBtn">Login</string>
+    <string name="signupBtn">Sign Up</string>
+    <string-array name="paymentTypes">
+        <item>Credit Card</item>
+        <item>Dialog Easy Cash</item>
+        <item>Mobitel mCash</item>
+        <item>Bank</item>
+        <item>Paypal</item>
+    </string-array>
+
+    <string name="dialogBoxOk">Ok</string>
+    <string name="dialogBoCancel">Cancel</string>
+    <string name="dialogBoxWait">Please wait...</string>
+    <string name="nullValue">Null value</string>
+</resources>

@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "617053291901",
+    "firebase_url": "https://mad-project-ab8fe.firebaseio.com",
+    "project_id": "mad-project-ab8fe",
+    "storage_bucket": "mad-project-ab8fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617053291901:android:8b3c8d470148ca77ae7814",
+        "android_client_info": {
+          "package_name": "com.example.computersolutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617053291901-b7cbnbiriekuvsqivghvcg7c76hbu7nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPzaXzHjNeqiTFoYoE3eBmy_WV5Ply4e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617053291901-b7cbnbiriekuvsqivghvcg7c76hbu7nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617053291901:android:2739b777709b611cae7814",
+        "android_client_info": {
+          "package_name": "com.example.madproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617053291901-ms43tcah0qs4bv2gtt572g925sokpkpk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.madproject",
+            "certificate_hash": "457017a4b4706804d55a27af4c77cd3142d489ca"
+          }
+        },
+        {
+          "client_id": "617053291901-i2aukejqoairkpaou9418na9jf8k4ls3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.madproject",
+            "certificate_hash": "4768bc7cab6cc83003146ade3199bd248ae8a330"
+          }
+        },
+        {
+          "client_id": "617053291901-jq63pk1f2g8gps0t0ddvskkd7542e0kr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.madproject",
+            "certificate_hash": "a53d14b2c379416bf5caecb910832ea6b8fc8184"
+          }
+        },
+        {
+          "client_id": "617053291901-b7cbnbiriekuvsqivghvcg7c76hbu7nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPzaXzHjNeqiTFoYoE3eBmy_WV5Ply4e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617053291901-b7cbnbiriekuvsqivghvcg7c76hbu7nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
