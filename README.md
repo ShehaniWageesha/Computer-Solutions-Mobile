@@ -1,6 +1,13 @@
 # User Management System - Computer Solutions
+This is an Android Application developed using Java language for Computer Solutions.
 
-This is an Android Application developed using Java language for Computer Solutions. Here's the UIs of the application.
+* User function have the ability to log into the system and view their profiles.
+* This provide the ability to register an user when a new user tries to log by entering their personal and payment information.
+* User profile keeps track of their personal information , payment information and customer can edit them anytime.
+* If the user wants to delete their account that is also possible.
+
+<br/>
+Here's the UIs of the application.
 <br/><br/>
 
 <div align=center>
